@@ -2,7 +2,9 @@
 Para mais informações, entre em nossa comunidade se inscrevendo em nosso [site](https://letscode.com.br/lets-code-pass)
 
 ## Curso Digital: Git/Versionamento
-*add new title
+* new title
+## Felix Dev
+
 O primeiro desafio é aplicação do **Método Twist** para codificação e decodificação de mensagens. Mais informações em `Challenge_Dados_-_Fevereiro.pdf`
 
 `nb_challenge1_python.ipynb`: notebook com enunciado e solução passo a passo.<br>
