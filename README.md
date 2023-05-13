@@ -3,6 +3,7 @@ Para mais informações, entre em nossa comunidade se inscrevendo em nosso [site
 
 ## Curso Digital: Git/Versionamento
 # salvando modificações
+* comando git push
 ## Felix Dev
 
 O primeiro desafio é aplicação do **Método Twist** para codificação e decodificação de mensagens. Mais informações em `Challenge_Dados_-_Fevereiro.pdf`
