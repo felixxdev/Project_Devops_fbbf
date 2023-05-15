@@ -3,7 +3,7 @@ Para mais informações, entre em nossa comunidade se inscrevendo em nosso [site
 
 ## Curso Digital: Git/Versionamento
 # salvando modificações
-# criando novo repositorio no pc corporativo
+## criando novo repositorio no pc corporativo
 * comando git push
 * comando git pull
 * comando git fetch
